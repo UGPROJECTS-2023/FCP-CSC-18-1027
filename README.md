@@ -5,7 +5,9 @@ The Blood Donation System Project is a new and innovative way to collect, store,
 How to run the  the Project in xampp local host
 
 1. Download the complete file in zip (recommended)
+   
 2. Extract the file and copy the bloodbank folder
+   
 3.Paste inside root directory(for xampp xampp/htdocs)
 
 4.Open your xampp and open PHPMyAdmin (http://localhost/phpmyadmin)
